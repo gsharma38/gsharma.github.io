@@ -33,7 +33,3 @@ Selected Work in Progress
 Collusion Among Employers in India.
 
 The Effects of Mandated Maternity Leave on Young Women's Labor Market Outcomes (with Lisa Ho and Pulak Ghosh).
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
