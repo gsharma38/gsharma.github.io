@@ -14,7 +14,7 @@ I am a post-doctoral fellow in the Industrial Relations Section at Princeton Uni
 
 Publications
 ------
-[Long-Term Effects of the Targeting the Ultra Poor Program](/gsharma.github.io/files/aeri.20200667.pdf) (with Abhijit Banerjee and Esther Duflo). _American Economic Review: Insights_, Volume 3, No. 4, December 2021, Pages 471-486.
+[Long-Term Effects of the Targeting the Ultra Poor Program](/files/aeri.20200667.pdf) (with Abhijit Banerjee and Esther Duflo). _American Economic Review: Insights_, Volume 3, No. 4, December 2021, Pages 471-486.
 
 [Depression and Loneliness Among the Elderly in Low and Middle-Income Countries](/files/JEP_Paper_Dec_2022.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, and Girija Vaidyanathan). _Journal of Economic Perspectives_, Vol. 3, No.2, Spring 2023.
 
