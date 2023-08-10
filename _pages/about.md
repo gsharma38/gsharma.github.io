@@ -20,7 +20,7 @@ Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Livi
 
 Working Papers
 ======
-[Monopsony and Gender.](/files/monopsony_and_gender.pdf) [April 2023]
+[Monopsony and Gender.](/files/monopsony_gender_gsharma.pdf) [April 2023]
 
 Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs (with Viola Corradini and Lorenzo Lagos). [May 2023]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
 
