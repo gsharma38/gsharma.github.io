@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 ------
-I am a post-doctoral fellow in the Industrial Relations Section at Princeton University. My research is in development and labor economics. I study market power in developing countries, the causes and consequences of gender disparities in the labor market, and the role of social protection in improving the lives of the poor. In 2024, I will begin as an Assistant Professor of Economics at Northwestern University. I received my Ph.D. from MIT in 2023 and BA from Stanford.
+Welcome! 
 
+I am a post-doctoral fellow in the Industrial Relations Section at Princeton University. My research focuses on development and labor economics. I received my PhD in Economics from MIT in 2023, and in 2024 I will join Northwestern University as an Assistant Professor of Economics. 
+
+Specific topics I study include market power in developing countries, the causes and consequences of gender gaps in the labor market, and the role of social protection in improving the lives of the poor.
 
 Publications
 ------
@@ -33,3 +36,5 @@ Selected Work in Progress
 Collusion Among Employers in India.
 
 The Effects of Mandated Maternity Leave on Young Women's Labor Market Outcomes (with Lisa Ho and Pulak Ghosh).
+
+Market Power and Misallocation (with Amit Khandelwal).
