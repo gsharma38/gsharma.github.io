@@ -11,9 +11,9 @@ redirect_from:
 ------
 Welcome! 
 
-I am a post-doctoral fellow in the Industrial Relations Section at Princeton University. My research focuses on development and labor economics. I received my PhD in Economics from MIT in 2023, and in 2024 I will join Northwestern University as an Assistant Professor of Economics. Here is my [CV](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf).
+I am a post-doctoral fellow in the Industrial Relations Section at Princeton University. I received my PhD in Economics from MIT, and in 2024 I will join Northwestern University as an Assistant Professor of Economics. Here is my [CV](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf).
 
-Specific topics I study include market power in developing countries, the causes and consequences of gender gaps in the labor market, and the role of social protection in improving the lives of the poor.
+My research focuses on development and labor economics. Specific topics I study include market power in developing countries, the causes and consequences of gender gaps in the labor market, and the role of social protection in improving the lives of the poor.
 
 Publications
 ------
