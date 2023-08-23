@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "garima-sharma.png"
+  avatar           : "/images/garima-sharma.png"
   bio              : "You can contact me at: garimasharma@princeton.edu"
 #  location         : 
  # employer         :
