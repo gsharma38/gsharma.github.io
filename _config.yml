@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://garimasharma.com
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://gsharma38.github.io/gsharma.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "https://garimasharma.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "https://gsharma38.github.io/gsharma.github.io/garima-sharma.png"
+  avatar           : "/files/garima-sharma.png"
   bio              : "You can contact me at: garimasharma@princeton.edu"
 #  location         : 
  # employer         :
