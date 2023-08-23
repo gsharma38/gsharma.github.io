@@ -17,18 +17,18 @@ Specific topics I study include market power in developing countries, the causes
 
 Publications
 ------
-[Long-Term Effects of the Targeting the Ultra Poor Program](/files/aeri.20200667.pdf) (with Abhijit Banerjee and Esther Duflo). _American Economic Review: Insights_, Volume 3, No. 4, December 2021, Pages 471-486.
+[Long-Term Effects of the Targeting the Ultra Poor Program](https://gsharma38.github.io/gsharma.github.io/files/aeri.20200667.pdf) (with Abhijit Banerjee and Esther Duflo). _American Economic Review: Insights_, Volume 3, No. 4, December 2021, Pages 471-486.
 
-[Depression and Loneliness Among the Elderly in Low and Middle-Income Countries](/files/JEP_Paper_Dec_2022.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, and Girija Vaidyanathan). _Journal of Economic Perspectives_, Vol. 3, No.2, Spring 2023.
+[Depression and Loneliness Among the Elderly in Low and Middle-Income Countries](https://gsharma38.github.io/gsharma.github.io/files/JEP_Paper_Dec_2022.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, and Girija Vaidyanathan). _Journal of Economic Perspectives_, Vol. 3, No.2, Spring 2023.
 
-[Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Living Alone in India: A Randomized Trial](/files/annals_cbt.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, Miriam Sequeira, and Girija Vaidyanathan). _Annals of Internal Medicine_, April 2023.
+[Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Living Alone in India: A Randomized Trial](https://gsharma38.github.io/gsharma.github.io/files/annals_cbt.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, Miriam Sequeira, and Girija Vaidyanathan). _Annals of Internal Medicine_, April 2023.
 
 
 Working Papers
 ------
-[Monopsony and Gender.](/files/monopsony_gender_gsharma.pdf) [April 2023]
+[Monopsony and Gender.](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf) [April 2023]
 
-[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [May 2023]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
+[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [May 2023]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
 
 
 Selected Work in Progress
