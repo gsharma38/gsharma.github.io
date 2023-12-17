@@ -1,6 +1,6 @@
 ---
 title: "RA Hiring"
-permalink: /publications/
+permalink: /rahiring/
 author_profile: true
 ---
 
