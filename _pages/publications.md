@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+------
+
 I am hiring a full-time Pre-Doctoral Research Associate in the Department of Economics at Northwestern University to begin in July 2024. 
 
 The Research Associate will be involved in all aspects of policy-oriented and data-intensive research on labor markets and market power in developing countries. Responsibilities will include collecting and analyzing large administrative datasets, designing and implementing randomized controlled trials, and conducting background research and literature reviews. There may also be opportunities for field travel to India. 
