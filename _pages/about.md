@@ -33,5 +33,5 @@ Selected Work in Progress
 ------
 Collusion Among Employers in India.
 
-The Effects of Mandated Maternity Leave on Young Women's Labor Market Outcomes (with Lisa Ho, Shreya Tandon, Stephanie Revelio, and Pulak Ghosh).
+The Effects of Mandated Maternity Leave on Young Women's Labor Market Outcomes (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh).
 
