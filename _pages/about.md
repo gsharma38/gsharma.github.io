@@ -38,5 +38,5 @@ The Effects of Mandated Maternity Leave on Young Women's Labor Market Outcomes (
 Other Research
 ------
 
-[Female Labor Force Participation](https://gsharma38.github.io/gsharma.github.io/files/FLFP_voxdevlit.pdf) (with Rachel Heath, Arielle Bernhardt, Girija Borker, Anne Fitzpatrick, Anthony Keats, Madeline McKelway, Andreas Menzel, and Teresa Molina). VoxDevLit, February 2024.
+[Female Labor Force Participation](https://gsharma38.github.io/gsharma.github.io/files/FLFP_voxdevlit.pdf) (with Rachel Heath, Arielle Bernhardt, Girija Borker, Anne Fitzpatrick, Anthony Keats, Madeline McKelway, Andreas Menzel, and Teresa Molina). _VoxDevLit_, February 2024
 
