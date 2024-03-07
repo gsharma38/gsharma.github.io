@@ -28,10 +28,15 @@ Working Papers
 
 [Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [May 2023]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
 
+Collusion Among Employers in India. [March 2024] [email me for a draft]
 
 Selected Work in Progress
 ------
-Collusion Among Employers in India.
 
 The Effects of Mandated Maternity Leave on Young Women's Labor Market Outcomes (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh).
+
+Other Research
+------
+
+[Female Labor Force Participation](https://gsharma38.github.io/gsharma.github.io/files/FLFP_voxdevlit.pdf) (with Rachel Heath, Arielle Bernhardt, Girija Borker, Anne Fitzpatrick, Anthony Keats, Madeline McKelway, Andreas Menzel, and Teresa Molina). VoxDevLit, February 2024.
 
