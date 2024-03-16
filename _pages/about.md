@@ -28,7 +28,7 @@ Working Papers
 
 [Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [May 2023]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
 
-Collusion Among Employers in India. [Abstract](https://gsharma38.github.io/gsharma.github.io/files/collusion_abstract_gs.pdf) [February 2024]
+Collusion Among Employers in India. [Abstract](https://gsharma38.github.io/gsharma.github.io/files/collusion_abstract_gs.pdf) [February 2024]   
 [Draft available upon request]
 
 
