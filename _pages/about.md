@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ------
-I am a post-doctoral fellow in the Industrial Relations Section at Princeton University. I received a Ph.D. in Economics from MIT, and in 2024 I will join Northwestern University as an Assistant Professor of Economics. You can find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf).
+I am an Assistant Professor of Economics at Northwestern University. You can find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf).
 
-My research focuses on development and labor economics. Specific topics I study include market power in developing countries, the causes and consequences of gender gaps in the labor market, and the role of social protection in improving the lives of the poor.
+My research focuses on development and labor economics. I study labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
 
 Publications
 ------
@@ -24,12 +24,12 @@ Publications
 
 Working Papers
 ------
+
+[Collusion Among Employers in India.](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs_july2024.pdf) [July 2024]
+
 [Monopsony and Gender.](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf) [April 2023]
 
 [Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [May 2023]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
-
-Collusion Among Employers in India. [Abstract](https://gsharma38.github.io/gsharma.github.io/files/collusion_abstract_gs.pdf) [February 2024]   
-[Draft available upon request]
 
 
 Selected Work in Progress
