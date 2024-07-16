@@ -11,7 +11,7 @@ redirect_from:
 ------
 I am an Assistant Professor of Economics at Northwestern University. You can find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf).
 
-My research focuses on development and labor economics. I study labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
+My research focuses on development and labor economics. I am especially interested in studying topics related to the labor market in developing countries, market power, and the role of social protection in improving the lives of the poor.
 
 Publications
 ------
