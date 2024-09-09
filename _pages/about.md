@@ -29,7 +29,7 @@ Working Papers
 
 [Monopsony and Gender.](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf) [April 2023]
 
-[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [May 2023]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
+[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [September 2024]. _Reject and Resubmit: The Quarterly Journal of Economics._ 
 
 
 Selected Work in Progress
