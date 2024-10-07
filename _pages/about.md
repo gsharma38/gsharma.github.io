@@ -11,7 +11,7 @@ redirect_from:
 ------
 I am an Assistant Professor of Economics at Northwestern University. You can find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf).
 
-My research focuses on development and labor economics, with a particular interest in studying labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
+My research focuses on development and labor economics, with a particular interest in labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
 
 Publications
 ------
@@ -41,4 +41,6 @@ Other Research
 ------
 
 [Female Labor Force Participation](https://gsharma38.github.io/gsharma.github.io/files/FLFP_voxdevlit.pdf) (with Rachel Heath, Arielle Bernhardt, Girija Borker, Anne Fitzpatrick, Anthony Keats, Madeline McKelway, Andreas Menzel, and Teresa Molina). _VoxDevLit_, February 2024
+
+Northwestern Economics PhD students can sign up for office hours [here](https://calendly.com/garima-sharma-northwestern/20-minute-meeting-clone).
 
