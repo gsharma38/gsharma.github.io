@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 ------
-I am an Assistant Professor of Economics at Northwestern University. You can find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf).
+I am an Assistant Professor of Economics at Northwestern University.
 
-My research focuses on development and labor economics, with a particular interest in labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
+My research focuses on development and labor economics, with a particular interest in studying labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
+
+You can contact me at: garima.sharma@northwestern.edu and find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf). Northwestern Econ PhD students can sign up for office hours [here](https://calendly.com/garima-sharma-northwestern/20-minute-meeting-clone).
 
 Publications
 ------
