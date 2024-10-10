@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ------
-I am an Assistant Professor of Economics at Northwestern University. I received a PhD in Economics from MIT in 2023.
+I am an Assistant Professor of Economics at Northwestern University. I received my PhD in Economics from MIT in 2023.
 
 My research focuses on development and labor economics, with a particular interest in labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
 
