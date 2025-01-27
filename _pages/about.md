@@ -34,7 +34,7 @@ Publications
 
 [Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Living Alone in India: A Randomized Trial](https://gsharma38.github.io/gsharma.github.io/files/annals_cbt.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, Miriam Sequeira, and Girija Vaidyanathan). _Annals of Internal Medicine_, April 2023.
 
-[Are Some Firms Better for Women's Careers?](https://gsharma38.github.io/gsharma.github.io/files/1.AEA_P_P_Draft_Jan.pdf) (with Shreya Tandon, Lisa Ho, Pulak Ghosh, and Stephanie Hao Ⓡ). Prepared for the _AEA Papers and Proceedings_, 2025.
+[Are Some Firms Better for Women's Careers?](https://gsharma38.github.io/gsharma.github.io/files/1.AEA_P_P_Draft_Jan.pdf) (with Shreya Tandon, Lisa Ho, Pulak Ghosh, and Stephanie Hao ®). Prepared for the _AEA Papers and Proceedings_, 2025.
 
 
 Selected Work in Progress
