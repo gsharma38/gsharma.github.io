@@ -19,7 +19,7 @@ You can contact me at garima.sharma@northwestern.edu and find my CV [here](https
 Working Papers
 ------
 
-[Collusion Among Employers in India.](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf) [November 2024]
+[Collusion Among Employers in India.](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf) [February 2025]
 
 [Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [September 2024]. _Conditionally accepted: The Quarterly Journal of Economics._ 
 
