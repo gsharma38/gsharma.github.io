@@ -21,21 +21,21 @@ Working Papers
 
 [Collusion Among Employers in India.](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf) [March 2025]
 
-[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [April 2025]. _Conditionally accepted: The Quarterly Journal of Economics._ 
-
 [Monopsony and Gender.](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf) [April 2023]
 
 
-Publications
+Published and Accepted Articles
 ------
+
+[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [Online Appendix](https://gsharma38.github.io/gsharma.github.io/files/Online_Appendix_CBFW.pdf) [April 2025]. _Accepted: The Quarterly Journal of Economics._ 
+
+[Are Some Firms Better for Women's Careers?](https://gsharma38.github.io/gsharma.github.io/files/1.AEA_P_P_Draft_Jan.pdf) (with Shreya Tandon, Lisa Ho, Pulak Ghosh, and Stephanie Hao). Prepared for the _AEA Papers and Proceedings_, 2025.
+
 [Long-Term Effects of the Targeting the Ultra Poor Program](https://gsharma38.github.io/gsharma.github.io/files/aeri.20200667.pdf) (with Abhijit Banerjee and Esther Duflo). _American Economic Review: Insights_, Volume 3, No. 4, December 2021, Pages 471-486.
 
 [Depression and Loneliness Among the Elderly in Low and Middle-Income Countries](https://gsharma38.github.io/gsharma.github.io/files/JEP_Paper_Dec_2022.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, and Girija Vaidyanathan). _Journal of Economic Perspectives_, Vol. 3, No.2, Spring 2023.
 
 [Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Living Alone in India: A Randomized Trial](https://gsharma38.github.io/gsharma.github.io/files/annals_cbt.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, Miriam Sequeira, and Girija Vaidyanathan). _Annals of Internal Medicine_, April 2023.
-
-[Are Some Firms Better for Women's Careers?](https://gsharma38.github.io/gsharma.github.io/files/1.AEA_P_P_Draft_Jan.pdf) (with Shreya Tandon, Lisa Ho, Pulak Ghosh, and Stephanie Hao). Prepared for the _AEA Papers and Proceedings_, 2025.
-
 
 Selected Work in Progress
 ------
