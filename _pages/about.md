@@ -41,6 +41,7 @@ Selected Work in Progress
 ------
 
 The Effects of Mandated Maternity Leave on Young Women's Labor Market Outcomes (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh).
+[conference draft]
 
 Other Research
 ------
