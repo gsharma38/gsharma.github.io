@@ -41,7 +41,7 @@ Published and Accepted Articles
 Selected Work in Progress
 ------
 
-The Effects of Mandated Maternity Leave on Labor Market Outcomes in India (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh). May 2025.
+The Effects of Mandated Maternity Leave on Labor Market Outcomes in India (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh). June 2025.
 
 
 Other Research
