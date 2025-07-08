@@ -28,7 +28,7 @@ Revise and Resubmit at the _American Economic Review._ March 2025.
 Published and Accepted Articles
 ------
 
-[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [Online Appendix](https://gsharma38.github.io/gsharma.github.io/files/Online_Appendix_CBFW.pdf) [April 2025]. _Forthcoming: The Quarterly Journal of Economics._ 
+[Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [Online Appendix](https://gsharma38.github.io/gsharma.github.io/files/Online_Appendix_CBFW.pdf). April 2025. _Forthcoming: The Quarterly Journal of Economics._ 
 
 [Are Some Firms Better for Women's Careers?](https://gsharma38.github.io/gsharma.github.io/files/1.AEA_P_P_Draft_Jan.pdf) (with Shreya Tandon, Lisa Ho, Pulak Ghosh, and Stephanie Hao). _AEA Papers and Proceedings_, May 2025.
 
@@ -41,7 +41,7 @@ Published and Accepted Articles
 Selected Work in Progress
 ------
 
-The Effects of Mandated Maternity Leave on Labor Market Outcomes in India (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh). [May 2025]
+The Effects of Mandated Maternity Leave on Labor Market Outcomes in India (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh). May 2025.
 
 
 Other Research
