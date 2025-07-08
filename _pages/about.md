@@ -19,10 +19,10 @@ You can contact me at garima.sharma@northwestern.edu and find my CV [here](https
 Working Papers
 ------
 
-[Collusion Among Employers in India.](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf). March 2025.  
+[Collusion Among Employers in India](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf). March 2025.  
 Revise and Resubmit, _American Economic Review._ 
 
-[Monopsony and Gender.](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023.
+[Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023.
 
 
 Published and Accepted Articles
