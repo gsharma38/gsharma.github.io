@@ -24,7 +24,7 @@ Revise and Resubmit, _American Economic Review._
 
 [Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023.
 
-The Effects of Mandated Maternity Leave on Labor Market Outcomes in India (with Pulak Ghosh, Stephanie Hao, Lisa Ho, and Shreya Tandon). September 2025. [Email for draft]
+[The Effects of Mandated Maternity Leave on Labor Market Outcomes in India](#) (with Pulak Ghosh, Stephanie Hao, Lisa Ho, and Shreya Tandon). September 2025. [Email for draft]
 <details>
   <summary><strong>Abstract</strong></summary>
   <div style="text-align: justify;">
