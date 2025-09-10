@@ -24,6 +24,11 @@ Revise and Resubmit, _American Economic Review._
 
 [Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023.
 
+The Effects of Mandated Maternity Leave on Labor Market Outcomes in India (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh). September 2025. [Email for draft]
+<details>
+  <summary><strong>Abstract</strong></summary>
+This paper studies the effects of a 2017 Indian law that increased the duration of paid maternity leave from 12 to 26 weeks on the labor market outcomes of women and men: wages, employment, and career trajectories. Leveraging pre-reform variation in the duration of leave offered across employers (driven by parent company policies), and linking social security records covering the universe of formal workers in India with all LinkedIn profiles, we document four main findings. First, the policy reduced female employment by 6% within six months of implementation and by 10% within four years. These effects were concentrated among young women aged 18 to 35, with no impact on men or older women, indicating the average firm shrank in response to higher costs. Second, employers did not pass costs onto wages: women’s wages remained unchanged while men’s wages rose slightly, consistent with firms seeking to retain experienced male employees as women became more expensive to employ. Third, men were promoted over women: incumbent male workers were more likely to move into managerial and abstract roles requiring higher firm-specific human capital, while young women were more likely to be placed in manual or routine positions. Fourth, to rationalize the magnitude of the employment decline, employers would have to greatly overestimate the rate at which women take maternity leave (implying employer misperceptions). First estimates suggest the mandate was welfare-neutral: it benefited employed women while raising costs for employers.
+</details>
 
 Published and Accepted Articles
 ------
@@ -38,10 +43,7 @@ Published and Accepted Articles
 
 [Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Living Alone in India: A Randomized Trial](https://gsharma38.github.io/gsharma.github.io/files/annals_cbt.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, Miriam Sequeira, and Girija Vaidyanathan). _Annals of Internal Medicine_, April 2023.
 
-Selected Work in Progress
-------
 
-The Effects of Mandated Maternity Leave on Labor Market Outcomes in India (with Lisa Ho, Shreya Tandon, Stephanie Hao, and Pulak Ghosh). May 2025.
 
 
 Other Research
