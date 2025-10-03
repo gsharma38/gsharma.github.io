@@ -48,8 +48,9 @@ Published and Accepted Articles
 
 [Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Living Alone in India: A Randomized Trial](https://gsharma38.github.io/gsharma.github.io/files/annals_cbt.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, Miriam Sequeira, and Girija Vaidyanathan). _Annals of Internal Medicine_, April 2023.
 
-
-
+Selected Work in Progress
+------
+Seventeen-year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo)
 
 Other Research
 ------
