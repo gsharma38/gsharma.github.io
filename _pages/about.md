@@ -50,7 +50,7 @@ Published and Accepted Articles
 
 Selected Work in Progress
 ------
-Seventeen-year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo)
+Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo)
 
 Other Research
 ------
