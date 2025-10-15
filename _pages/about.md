@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+----
+
 I am an Assistant Professor of Economics at Northwestern University. I received my PhD in Economics from MIT in 2023.
 
 My research studies development and labor economics, with a particular interest in labor markets in developing countries, market power, and the role of social protection in improving the lives of the poor.
@@ -17,7 +19,8 @@ You can contact me at garima.sharma@northwestern.edu and find my CV [here](https
 I am hiring a full-time pre-doctoral RA starting in July 2026. For details, see [here](https://gsharma38.github.io/gsharma.github.io/files/RA_posting.pdf).
 
 
-### Working Papers
+Working Papers
+----
 
 [Collusion Among Employers in India](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf). March 2025.  
 Revise and Resubmit, _American Economic Review._ 
@@ -33,7 +36,8 @@ This paper studies the effects of a 2017 Indian law that increased the duration 
 </details>
 
 
-### Published and Accepted Articles
+Published and Accepted Articles
+----
 
 [Collective Bargaining for Women: How Unions Can Create Female-Friendly Jobs](https://gsharma38.github.io/gsharma.github.io/files/CBFW_paper_CLS.pdf) (with Viola Corradini and Lorenzo Lagos). [Online Appendix](https://gsharma38.github.io/gsharma.github.io/files/Online_Appendix_CBFW.pdf). _The Quarterly Journal of Economics._ August 2025.
 
@@ -45,11 +49,12 @@ This paper studies the effects of a 2017 Indian law that increased the duration 
 
 [Effects of Cognitive Behavioral Therapy and Cash Transfers on Older Persons Living Alone in India: A Randomized Trial](https://gsharma38.github.io/gsharma.github.io/files/annals_cbt.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, Miriam Sequeira, and Girija Vaidyanathan). _Annals of Internal Medicine_, April 2023.
 
-### Selected Work in Progress
+Selected Work in Progress
+----
 
 Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo)
 
-### Other Research
-
+Other Research
+----
 
 [Female Labor Force Participation](https://gsharma38.github.io/gsharma.github.io/files/FLFP_voxdevlit.pdf) (with Rachel Heath, Arielle Bernhardt, Girija Borker, Anne Fitzpatrick, Anthony Keats, Madeline McKelway, Andreas Menzel, and Teresa Molina). _VoxDevLit_, February 2024
