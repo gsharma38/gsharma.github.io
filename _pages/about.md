@@ -52,6 +52,8 @@ Selected Work in Progress
 ------
 Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo)
 
+Understanding and Increasing Labor Market Formality in India (with Vaidehi Parameswaran)
+
 Other Research
 ------
 
