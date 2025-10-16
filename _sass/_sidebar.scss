@@ -50,35 +50,20 @@
 }
 
 .sidebar__right {
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
     position: fixed;
-    right: 0;
-    left: auto;
-    width: 180px !important;
-    max-width: 180px;
-    float: none;
-    margin-left: 0 !important; /* kill span(...) push */
-    box-sizing: border-box;
+    float: right;
+    width: $right-sidebar-width-narrow;
+    margin-left: span(0.5 of 12);
+    z-index: 10;
   }
-
-.sidebar__right .sticky {
-    width: 100% !important;
-    max-width: 100% !important;
-  }
-
-/* Give the main content only ~180px + gutter on the right */
-  .page__content,
-  .page__inner-wrap,
-  .main,
-  .page {
-    margin-right: 200px !important; /* adjust gutter to taste */
-  }
-
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
 }
-
 
 /*
    Author profile and links
