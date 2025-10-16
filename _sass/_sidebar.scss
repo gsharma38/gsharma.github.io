@@ -60,6 +60,11 @@
     box-sizing: border-box;
   }
 
+.sidebar__right .sticky {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
