@@ -70,16 +70,15 @@
   .page__inner-wrap,
   .main,
   .page {
-    margin-right: 180px !important; /* adjust gutter to taste */
+    margin-right: 200px !important; /* adjust gutter to taste */
   }
 
 
-/* Delete stray code
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
 }
-*/
+
 
 /*
    Author profile and links
