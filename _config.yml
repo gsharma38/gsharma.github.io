@@ -309,3 +309,29 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# ------------------------------
+# Site-wide wider content column
+# ------------------------------
+defaults:
+  - scope:
+      path: ""          # all regular pages in _pages/
+      type: pages
+    values:
+      classes: wide
+  - scope:
+      path: ""          # posts (if you use them)
+      type: posts
+    values:
+      classes: wide
+  - scope:
+      path: ""          # common academicpages collections
+      type: publications
+    values:
+      classes: wide
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      classes: wide
+
