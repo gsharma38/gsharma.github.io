@@ -39,16 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
----
-# keep this front matter so Jekyll compiles Sass
----
-
-/* Global width tweaks for Minimal Mistakes */
-$max-width: 1200px;    /* adjust between 1280–1440px to taste */
-$x-large: 1600px;      /* ensure wide layout remains wide on large screens */
-$right-sidebar-width: 180px; /* optional: shrink sidebar a touch */
-
-/* Update the skin import to the one you actually use, e.g., air, default, mint, etc. */
-@import "minimal-mistakes/skins/air";
-@import "minimal-mistakes";
