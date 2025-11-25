@@ -16,8 +16,6 @@ My research focuses on development and labor economics, exploring how labor mark
 
 You can contact me at garima.sharma@northwestern.edu and find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf). 
 
-I am hiring a full-time pre-doctoral RA starting in July 2026. For details, see [here](https://gsharma38.github.io/gsharma.github.io/files/RA_posting.pdf).
-
 
 Working Papers
 ----
