@@ -25,7 +25,7 @@ Working Papers
 [Collusion Among Employers in India](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf). November 2025. [Slides](https://gsharma38.github.io/gsharma.github.io/files/collusion_slides.pdf)    
 Revise and Resubmit, _American Economic Review._ 
 
-[Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023. [Slides](https://gsharma38.github.io/gsharma.github.io/files/monopgender_slides.pdf)
+[Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023 [revised soon]. [Slides](https://gsharma38.github.io/gsharma.github.io/files/monopgender_slides.pdf)
 
 
 Published and Accepted Articles
