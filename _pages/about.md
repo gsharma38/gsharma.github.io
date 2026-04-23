@@ -20,7 +20,7 @@ You can contact me at garima.sharma@northwestern.edu and find my CV [here](https
 Working Papers
 ----
 
-[The Effects of Mandated Maternity Leave on Labor Market Outcomes in India](https://gsharma38.github.io/gsharma.github.io/files/matbenefits_paper.pdf) (with Pulak Ghosh, Stephanie Hao, Lisa Ho, and Shreya Tandon). December 2025. [Slides](https://gsharma38.github.io/gsharma.github.io/files/matbenefits_talk.pdf) [VoxDev](https://voxdev.org/topic/labour-markets/women-india-valued-longer-maternity-leave-it-cost-them-jobs)
+[The Effects of Mandated Maternity Leave on Labor Market Outcomes in India](https://gsharma38.github.io/gsharma.github.io/files/matbenefits_paper.pdf) (with Pulak Ghosh, Stephanie Hao, Lisa Ho, and Shreya Tandon). December 2025. [Slides](https://gsharma38.github.io/gsharma.github.io/files/matbenefits_talk.pdf), [VoxDev](https://voxdev.org/topic/labour-markets/women-india-valued-longer-maternity-leave-it-cost-them-jobs)
 
 [Collusion Among Employers in India](https://gsharma38.github.io/gsharma.github.io/files/collusion_gs.pdf). November 2025. [Slides](https://gsharma38.github.io/gsharma.github.io/files/collusion_slides.pdf)    
 Revise and Resubmit, _American Economic Review._ 
