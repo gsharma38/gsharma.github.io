@@ -27,6 +27,7 @@ Revise and Resubmit, _American Economic Review._
 
 [Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023 [revised soon]. [Slides](https://gsharma38.github.io/gsharma.github.io/files/monopgender_slides.pdf)
 
+Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo). Jun 2026.
 
 Published and Accepted Articles
 ----
@@ -44,9 +45,8 @@ Published and Accepted Articles
 Selected Work in Progress
 ----
 
-Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo)
+Understanding and Tackling Unemployment in India: Evidence from India’s Largest Jobs Portal (with Vaidehi Parameswaran)
 
-Understanding and Increasing Labor Market Formality in India (with Vaidehi Parameswaran)
 
 Other Research
 ----
