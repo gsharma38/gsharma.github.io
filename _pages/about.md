@@ -27,7 +27,7 @@ Revise and Resubmit, _American Economic Review._
 
 [Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023 [revised soon]. [Slides](https://gsharma38.github.io/gsharma.github.io/files/monopgender_slides.pdf)
 
-Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo). Jun 2026.
+Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo). June 2026.
 
 Published and Accepted Articles
 ----
