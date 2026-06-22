@@ -10,7 +10,7 @@ redirect_from:
 
 ----
 
-I will join UC Berkeley as an Assistant Professor of Economics in July 2026. I received my PhD in Economics from MIT in 2023, and was at Northwestern University between July 2024 - July 2026. 
+I will join UC Berkeley as an Assistant Professor of Economics in July 2026. I received my PhD in Economics from MIT in 2023, and was an Assistant Professor at Northwestern University between July 2024 - July 2026. 
 
 My research focuses on development and labor economics, exploring how labor markets function in developing countries, how market power shapes outcomes, and the role of social protection policies in improving the lives of the poor.
 
