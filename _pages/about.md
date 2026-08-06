@@ -14,7 +14,7 @@ I will join UC Berkeley as an Assistant Professor of Economics in July 2026. I r
 
 My research focuses on development and labor economics, exploring how labor markets function in developing countries, how market power shapes outcomes, and the role of social protection policies in improving the lives of the poor.
 
-You can contact me at garima.sharma@northwestern.edu and find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf). 
+You can contact me at garimasharma@berkeley.edu and find my CV [here](https://gsharma38.github.io/gsharma.github.io/files/Sharma_CV.pdf). 
 
 
 Working Papers
