@@ -27,7 +27,7 @@ Revise and Resubmit, _American Economic Review._
 
 [Monopsony and Gender](https://gsharma38.github.io/gsharma.github.io/files/monopsony_gender_gsharma.pdf). April 2023 [revised soon]. [Slides](https://gsharma38.github.io/gsharma.github.io/files/monopgender_slides.pdf)
 
-Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo). June 2026.
+Seventeen-Year Effects of the Targeting the Ultra Poor Program (with Abhijit Banerjee, Rebecca Cai, and Esther Duflo). November 2026. 
 
 Published and Accepted Articles
 ----
@@ -36,7 +36,7 @@ Published and Accepted Articles
 
 [Are Some Firms Better for Women's Careers?](https://gsharma38.github.io/gsharma.github.io/files/1.AEA_P_P_Draft_Jan.pdf) (with Shreya Tandon, Lisa Ho, Pulak Ghosh, and Stephanie Hao). _AEA Papers and Proceedings_, May 2025.
 
-[Long-Term Effects of the Targeting the Ultra Poor Program](https://gsharma38.github.io/gsharma.github.io/files/aeri.20200667.pdf) (with Abhijit Banerjee and Esther Duflo). _American Economic Review: Insights_, Volume 3, No. 4, December 2021, Pages 471-486.
+[Long-Term Effects of the Targeting the Ultra Poor Program](https://gsharma38.github.io/gsharma.github.io/files/aeri.20200667.pdf) (with Abhijit Banerjee and Esther Duflo). _American Economic Review: Insights_, Volume 3, No. 4, December 2021, Pages 471-486. [Slides](https://gsharma38.github.io/gsharma.github.io/files/TUP_presentation_10year.pdf)
 
 [Depression and Loneliness Among the Elderly in Low and Middle-Income Countries](https://gsharma38.github.io/gsharma.github.io/files/JEP_Paper_Dec_2022.pdf) (with Abhijit Banerjee, Esther Duflo, Erin Grela, Madeline McKelway, Frank Schilbach, and Girija Vaidyanathan). _Journal of Economic Perspectives_, Vol. 3, No.2, Spring 2023.
 
